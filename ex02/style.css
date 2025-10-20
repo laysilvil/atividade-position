@@ -1,0 +1,17 @@
+body{
+    font-family: arial sans-serif;
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+.box-relativa{
+    position: relative;
+    left: 20px;
+    top:50px;
+    width: 150px;
+    background-color: #ffcc00;
+    text-align: center;
+    line-height: 100px;
+    border: 2px solid #333;
+    border-radius: 5px;
+}

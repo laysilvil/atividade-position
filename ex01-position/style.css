@@ -1,0 +1,32 @@
+body{
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+
+.header{
+  background-color: #0077cc;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  position: static;
+}
+
+.caixa{
+  position: static;
+  padding: 20px;
+  margin: 10px auto;
+  border: 2px solid #0077cc;
+  width: 80%;
+  background-color: #cce5ff;
+  border-radius: 5px;
+}
+
+.footer{
+  background-color: #005bb5;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  position: static;
+}
