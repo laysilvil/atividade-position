@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #8d2ecd;
+    color: rgb(252, 255, 255);
+    padding: 15px 20px;
+    text-align: center;
+    font-size: 1.5rem;
+    z-index: 1000;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+main{
+    margin-top: 80px;
+    padding: 20px;
+}
+
+p{
+    margin-bottom: 20px;
+    line-height: 1.6;
+}
